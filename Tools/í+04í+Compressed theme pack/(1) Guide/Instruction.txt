@@ -1,0 +1,25 @@
+﻿
+
+1. Modify the theme file according to individual needs.
+
+2. Generate theme package:
+   (1). Double-click to run "Theme compression pack.bat".
+   (2). Enter the subject package name (Note: there can be no spaces between the names).
+   (3). Then click Enter.
+   (4). Successfully generated theme package (suffix: .t).
+
+3. Use the theme package:
+   (1). Manually create a theme folder in the Micro SD card root directory.
+   (2). Copy the generated theme package *.t into the theme directory of the SD card.
+   (3). Insert the SD card containing the theme package into the R3PRO machine.
+   (4). Click <System Settings>--<Theme Style>--<Use custom Theme> on R3PRO, and select the corresponding theme.
+
+4. Remove the theme package:
+    Double click to run "Theme decompression pack.bat"
+
+5. Precautions:
+   (1). The directory structure and file name cannot be modified.
+   (2). The version value under .vision.txt needs to be the same as the firmware version number.
+   
+
+
