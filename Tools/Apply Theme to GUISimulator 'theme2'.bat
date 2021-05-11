@@ -15,6 +15,3 @@ xcopy %theme_base_dir%\litegui\ %simulator_base_dir%\data\res\R3PRO\litegui\them
 
 echo Apply complete
 pause
-
-
-::   >nul 2>nul
